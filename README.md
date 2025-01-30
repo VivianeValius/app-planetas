@@ -1,6 +1,6 @@
-# myapp
+# App Planetas
 
-A new Flutter project.
+Gerenciar e Cadastrar Planetas
 
 ## Getting Started
 
